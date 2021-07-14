@@ -1,0 +1,2 @@
+# rinex
+Rinex_major
